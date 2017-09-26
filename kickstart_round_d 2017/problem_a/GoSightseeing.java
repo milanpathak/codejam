@@ -1,3 +1,6 @@
+/*
+ * This code is not completed, yet.
+ */
 package kickstart_round_d_2017;
 
 import java.io.File;
@@ -8,7 +11,7 @@ public class GoSightseeing {
 
 	//
 	public static void main(String[] args) throws Exception{
-		Scanner sc = new Scanner(new File("C:\\Users\\Jay.Jay-PC\\Downloads\\A-small-practice.in"));
+		Scanner sc = new Scanner(new File("C:\\Users\\milan\\Downloads\\A-small-practice.in"));
 		int noOfTestCase = Integer.parseInt(sc.nextLine());
 		int lineCount =1;
 		for(int i=1; i<=noOfTestCase; i++){
